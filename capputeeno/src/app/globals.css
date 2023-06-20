@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 :root {
   --logo-color: #5D5D6D;
   --bg-secondary: #F3F5F6;
@@ -9,6 +10,9 @@
   --orange-low: #FFA585;
   --shapes: #DCE2E6;
 }
+=======
+
+>>>>>>> 66caeeded1bba2e2e8f2770119580c2a0226d020
 
 * {
   box-sizing: border-box;

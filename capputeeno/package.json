@@ -17,7 +17,10 @@
     "next": "13.4.6",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+<<<<<<< HEAD
     "styled-components": "^6.0.0-rc.3",
+=======
+>>>>>>> 66caeeded1bba2e2e8f2770119580c2a0226d020
     "typescript": "5.1.3"
   }
 }
